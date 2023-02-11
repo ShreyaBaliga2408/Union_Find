@@ -74,7 +74,7 @@ public class WQUPC {
     }
 
     /**
-     * Returns true if the the two sites are in the same component.
+     * Returns true if the two sites are in the same component.
      *
      * @param p the integer representing one site
      * @param q the integer representing the other site
@@ -88,7 +88,7 @@ public class WQUPC {
     }
 
     /**
-     * Merges the component containing site {@code p} with the
+     * Merges the component containing site {@code p} with
      * the component containing site {@code q}.
      *
      * @param p the integer representing one site
